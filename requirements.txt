@@ -1,0 +1,20 @@
+itsdangerous==2.0.1 
+click==8.0.3 
+Werkzeug==2.0.2 
+Jinja2==3.0.3 
+MarkupSafe==2.0.1 
+typing_extensions==4.0.1 
+zipp==3.6.0 
+importlib-metadata==4.8.2 
+idna==3.3 
+certifi==2021.10.8 
+urllib3==1.26.7 
+charset_normalizer==2.0.8 
+deprecated==1.2.13 
+wrapt==1.13.3 
+requests==2.26.0 
+flask==2.0.2 
+redis==4.0.2 
+# wallycore==0.8.9 
+wallycore
+python-dotenv==0.19.2 

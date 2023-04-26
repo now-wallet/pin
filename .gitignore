@@ -1,0 +1,12 @@
+# virtual environement
+env
+
+# system cache
+.DS_Store
+
+# ide cache
+.vscode/
+.idea/
+
+# development requirements are ignored for avoiding conflicts
+dev_requirements.txt
